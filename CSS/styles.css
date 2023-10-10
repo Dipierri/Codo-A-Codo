@@ -1,15 +1,23 @@
+body{
+    background-image: url("../Img/fondo.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
 h1 {
     color: blue;
-    background-color: red;
+    background-color: rgb(212, 198, 198);
 
 }
 p {
 
-    color:black;
-
+    color:rgb(24, 15, 15);
+    background-color: azure;
 }
 li {
-    color: green;
+    color: rgb(197, 231, 197);
+    
 }
 a {
     color:brown;
